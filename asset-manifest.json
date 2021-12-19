@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/reactjs-web/static/css/main.9f1082da.chunk.css",
+    "main.js": "/reactjs-web/static/js/main.92fd4f23.chunk.js",
+    "main.js.map": "/reactjs-web/static/js/main.92fd4f23.chunk.js.map",
+    "runtime-main.js": "/reactjs-web/static/js/runtime-main.40f87cbf.js",
+    "runtime-main.js.map": "/reactjs-web/static/js/runtime-main.40f87cbf.js.map",
+    "static/css/2.709e72d0.chunk.css": "/reactjs-web/static/css/2.709e72d0.chunk.css",
+    "static/js/2.9c8f68e6.chunk.js": "/reactjs-web/static/js/2.9c8f68e6.chunk.js",
+    "static/js/2.9c8f68e6.chunk.js.map": "/reactjs-web/static/js/2.9c8f68e6.chunk.js.map",
+    "index.html": "/reactjs-web/index.html",
+    "precache-manifest.e127afdf69bad40065587dd9a18fb089.js": "/reactjs-web/precache-manifest.e127afdf69bad40065587dd9a18fb089.js",
+    "service-worker.js": "/reactjs-web/service-worker.js",
+    "static/css/2.709e72d0.chunk.css.map": "/reactjs-web/static/css/2.709e72d0.chunk.css.map",
+    "static/css/main.9f1082da.chunk.css.map": "/reactjs-web/static/css/main.9f1082da.chunk.css.map",
+    "static/js/2.9c8f68e6.chunk.js.LICENSE.txt": "/reactjs-web/static/js/2.9c8f68e6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/reactjs-web/static/media/food.10c4da59.jpg",
+    "static/media/image1.jpg": "/reactjs-web/static/media/image1.9cd073a6.jpg",
+    "static/media/logo.png": "/reactjs-web/static/media/logo.c8ebd822.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40f87cbf.js",
+    "static/css/2.709e72d0.chunk.css",
+    "static/js/2.9c8f68e6.chunk.js",
+    "static/css/main.9f1082da.chunk.css",
+    "static/js/main.92fd4f23.chunk.js"
+  ]
+}
